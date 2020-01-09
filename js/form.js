@@ -1,0 +1,1 @@
+<script src="https://form.jotform.me/static/feedback2.js?3.3.REV" type="text/javascript"> new JotformFeedback({ formId: "60660253201442", buttonText: "Any Queries?", base: "https://form.jotform.me/", background: "#FF5959", fontColor: "#FFFFFF", buttonSide: "bottom", buttonAlign: "right", type: false, width: 600, height: 300 }); </script>
